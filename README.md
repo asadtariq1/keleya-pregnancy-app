@@ -1,7 +1,7 @@
 # Keleya Coding Challenge
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1QVJxLOX4t5sdWFnsR3H9gbGY9OYzJC8s/view?usp=sharing" alt="App icon" width="20%">
+    <img src="ios/KeleyaApp/Images.xcassets/AppIcon.appiconset/Icon-1024.png" alt="App icon" width="20%">
 </div>
 
 This repository contains the solution for the Keleya task as part of the coding challenge provided by [Keleya](https://www.keleya.de/).
